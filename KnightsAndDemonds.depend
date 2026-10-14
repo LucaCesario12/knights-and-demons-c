@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1760998069 source:d:\proyectos\c_guía\knightsanddemonds\main.c
+	"tablero.h"
+	"juego.h"
+	"menu.h"
+
+1760998522 source:d:\proyectos\c_guía\knightsanddemonds\juego.c
+	"juego.h"
+	"menu.h"
+	"tablero.h"
+	<time.h>
+
+1760128856 source:d:\proyectos\c_guía\knightsanddemonds\tablero.c
+	"tablero.h"
+	"juego.h"
+
+1761057240 d:\proyectos\c_guía\knightsanddemonds\tablero.h
+	"estructuras.h"
+
+1760125742 d:\proyectos\c_guía\knightsanddemonds\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
+1760998083 d:\proyectos\c_guía\knightsanddemonds\juego.h
+	"estructuras.h"
+	<time.h>
+	<stdbool.h>
+
+1760996667 source:d:\proyectos\c_guía\knightsanddemonds\menu.c
+	"menu.h"
+
+1760122080 d:\proyectos\c_guía\knightsanddemonds\menu.h
+	"estructuras.h"
+
+1778077170 source:c:\users\lucas\onedrive\desktop\unlam\codeblocks\knightsanddemonds\knightsanddemonds\juego.c
+	"juego.h"
+	"menu.h"
+	"tablero.h"
+	<time.h>
+
+1778077170 c:\users\lucas\onedrive\desktop\unlam\codeblocks\knightsanddemonds\knightsanddemonds\juego.h
+	"estructuras.h"
+	<time.h>
+	<stdbool.h>
+
+1778077170 c:\users\lucas\onedrive\desktop\unlam\codeblocks\knightsanddemonds\knightsanddemonds\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
+1778077170 c:\users\lucas\onedrive\desktop\unlam\codeblocks\knightsanddemonds\knightsanddemonds\menu.h
+	"estructuras.h"
+
+1778077170 c:\users\lucas\onedrive\desktop\unlam\codeblocks\knightsanddemonds\knightsanddemonds\tablero.h
+	"estructuras.h"
+
+1778077170 source:c:\users\lucas\onedrive\desktop\unlam\codeblocks\knightsanddemonds\knightsanddemonds\main.c
+	"tablero.h"
+	"juego.h"
+	"menu.h"
+
+1778077170 source:c:\users\lucas\onedrive\desktop\unlam\codeblocks\knightsanddemonds\knightsanddemonds\menu.c
+	"menu.h"
+
+1778077170 source:c:\users\lucas\onedrive\desktop\unlam\codeblocks\knightsanddemonds\knightsanddemonds\tablero.c
+	"tablero.h"
+	"juego.h"
+
